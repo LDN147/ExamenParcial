@@ -1,7 +1,7 @@
 # Proyecto Prueba
 ## Construccion de Sofware
 ### Aldana Leyva Aldair
-<img src="images/imagen.png" width=500>
+<img src="images/imagen.png" width=800>
 
 
 
