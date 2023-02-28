@@ -1,7 +1,7 @@
 # Proyecto Prueba
 ## Construccion de Sofware
 ### Aldana Leyva Aldair
-![](/ExamenFinal/src/ImagenProyecto.jpg)
+![](/Proyecto-de-Fin-de-Curso/src/ImagenProyecto.jpg)
 
 # OBJETIVO
 **IMPLEMENTAR** UN APLICATIVO PARA CALCULAR EL SUELDO A PAGAR DE LA EMPRESA HORIZONTE SAC
