@@ -1,13 +1,10 @@
 # Proyecto Prueba
 ## Construccion de Sofware
 ### Aldana Leyva Aldair
-![](/Proyecto-de-Fin-de-Curso/images/imagen.png)
+!.[.].(/Proyecto-de-Fin-de-Curso/images/imagen.png)
 
 
 # OBJETIVO
-**IMPLEMENTAR** UN APLICATIVO PARA CALCULAR EL SUELDO A PAGAR DE LA EMPRESA HORIZONTE SAC
-## EQUIPO DE DESARROLLO
-Integrante | Apellidos y nombres de los integrantes del equipo de desarrollo (ordenado alfabéticamente) | ROL
----------- | ------------------------------------------------------------------------------------------ | ---
-1 | RAMOS BALDEON MIGUEL ALDO	| SCRUM MASTER
-d
+**IMPLEMENTAR** UN APLICATIVO PARA CALCULAR EL SUELDO A PAGAR
+DE UN TRABAJADOR DE LA EMPRESA HORIZONTE SAC
+
