@@ -1,8 +1,11 @@
+# Proyecto Prueba
+## Construccion de Sofware
+### Aldana Leyva Aldair
+![](/ExamenFinal/src/ImagenProyecto.jpg)
 
-*GITBUB
-
-https://github.com/LDN147/examen_parcial.git
-
-*REPLIT
-
-https://replit.com/join/axpyptttgo-amilcar-aldaira
+# OBJETIVO
+**IMPLEMENTAR** UN APLICATIVO PARA CALCULAR EL SUELDO A PAGAR DE LA EMPRESA HORIZONTE SAC
+## EQUIPO DE DESARROLLO
+Integrante | Apellidos y nombres de los integrantes del equipo de desarrollo (ordenado alfabéticamente) | ROL
+---------- | ------------------------------------------------------------------------------------------ | ---
+1 | RAMOS BALDEON MIGUEL ALDO	| SCRUM MASTER
