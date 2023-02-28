@@ -10,3 +10,4 @@
 Integrante | Apellidos y nombres de los integrantes del equipo de desarrollo (ordenado alfabéticamente) | ROL
 ---------- | ------------------------------------------------------------------------------------------ | ---
 1 | RAMOS BALDEON MIGUEL ALDO	| SCRUM MASTER
+d
