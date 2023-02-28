@@ -1,7 +1,7 @@
 # Proyecto Prueba
 ## Construccion de Sofware
 ### Aldana Leyva Aldair
-!.[.].(/Proyecto-de-Fin-de-Curso/images/imagen.png)
+!.[.](/Proyecto-de-Fin-de-Curso/images/imagen.png)
 
 
 # OBJETIVO
